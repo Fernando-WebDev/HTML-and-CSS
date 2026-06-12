@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body{
+    background-color: aquamarine;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    color: purple;
+}
+h2{
+    color: brown;
+}
+p{
+    text-align: justify;
+}
+a{
+    color: black;
+}
